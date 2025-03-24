@@ -5,7 +5,7 @@ A lightweight yet effective image-processing pipeline to detect craters and boul
 This repository contains:
 - A Jupyter Notebook demonstrating the end-to-end workflow (histogram equalization, Gaussian blur, edge detection, morphological ops, and contour detection).
 - A research-paper-style PDF report (in docs/).
-- Sample images (in data/images/) and outputs (in data/output_images/ and in data/single_images).
+- Sample images (in data/images/) and outputs (in data/output_images/ and in data/single_image).
 
 ---
 
@@ -44,7 +44,7 @@ No deep learning models are used, making the solution efficient for devices with
 - **notebooks/** contains the main Jupyter Notebook.
 - **data/images/**: Raw input images used by the notebook.
 - **data/output_images/**: Result images saved by the pipeline (could be empty initially).
-- **data/single_Images/**: Final single-image results for clarity.
+- **data/single_image/**: Final single-image results for clarity.
 - **docs/**: Contains the PDF project report and any additional documentation.
 
 ---
@@ -72,7 +72,7 @@ No deep learning models are used, making the solution efficient for devices with
    jupyter notebook notebooks/Crater_and_Boulder_Detection.ipynb
    
 2. **Run all cells in the notebook:**
-- This will read images from data/images/, apply the pipeline, and save outputs to data/output_images/ and data/single_Images/.
+- This will read images from data/images/, apply the pipeline, and save outputs to data/output_images/ and data/single_image/.
 
 3. **Examine Results:**
 - Intermediate steps (histogram equalization, edges, morphological ops) are displayed in the notebook.
@@ -87,7 +87,7 @@ No deep learning models are used, making the solution efficient for devices with
   ![Original](data/images/Image_1.jpg)  
 
 2. **Final Contoured Output**
-- Shows the corresponding final result with detected craters and boulders highlighted, taken from data/single_Images/.           |
+- Shows the corresponding final result with detected craters and boulders highlighted, taken from data/single_image/.           |
   ![Output](data/single_image/Final_Contoured_Image_Green_Highlights.png)
 ---
 
