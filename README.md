@@ -87,11 +87,11 @@ No deep learning models are used, making the solution efficient for devices with
 
 2. **Final Contoured Output**
 - Shows the corresponding final result with detected craters and boulders highlighted, taken from data/single_Images/.
-  ![Final Detection Result](data/single_Images/Final_Contoured_Image_Green_Highlights.png)
+  ![Final Detection Result](data/single_image/Final_Contoured_Image_Green_Highlights.png)
 
 | Original Image                                                | Final Detection                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Original](data/images/Image_1.png)                    | ![Output](data/single_Images/Final_Contoured_Image_Green_Highlights.png)               |
+| ![Original](data/images/Image_1.png)                    | ![Output](data/single_image/Final_Contoured_Image_Green_Highlights.png)               |
 
 ---
 
