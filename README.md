@@ -83,15 +83,13 @@ No deep learning models are used, making the solution efficient for devices with
 
 1. **Original Grayscale Image**
 - Shows the unprocessed input image directly from your data/images/ folder.
-  ![Original Grayscale Image](data/images/Image_1.png)
 
 2. **Final Contoured Output**
 - Shows the corresponding final result with detected craters and boulders highlighted, taken from data/single_Images/.
-  ![Final Detection Result](data/single_image/Final_Contoured_Image_Green_Highlights.png)
 
 | Original Image                                                | Final Detection                                                 |
 | ------------------------------------------------------------- | --------------------------------------------------------------- |
-| ![Original](data/images/Image_1.png)                    | ![Output](data/single_image/Final_Contoured_Image_Green_Highlights.png)               |
+| ![Original](data/images/Image_1.jpg)                    | ![Output](data/single_image/Final_Contoured_Image_Green_Highlights.png)               |
 
 ---
 
