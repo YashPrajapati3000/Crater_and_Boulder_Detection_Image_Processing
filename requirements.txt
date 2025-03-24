@@ -1,0 +1,4 @@
+# Core libraries
+numpy
+opencv-python
+matplotlib
