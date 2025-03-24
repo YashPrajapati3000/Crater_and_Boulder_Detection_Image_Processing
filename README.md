@@ -80,15 +80,15 @@ No deep learning models are used, making the solution efficient for devices with
 
 ## **Examples**
 - Here’s a brief demonstration of the pipeline in action using one of the images:
-  ![Original](data/images/Image_1.jpg)  
+ 
 
 1. **Original Grayscale Image**
 - Shows the unprocessed input image directly from your data/images/ folder.
-  ![Output](data/single_image/Final_Contoured_Image_Green_Highlights.png)
+  ![Original](data/images/Image_1.jpg)  
 
 2. **Final Contoured Output**
 - Shows the corresponding final result with detected craters and boulders highlighted, taken from data/single_Images/.           |
-
+  ![Output](data/single_image/Final_Contoured_Image_Green_Highlights.png)
 ---
 
 ## **Future Improvements**
