@@ -5,7 +5,7 @@ A lightweight yet effective image-processing pipeline to detect craters and boul
 This repository contains:
 - A Jupyter Notebook demonstrating the end-to-end workflow (histogram equalization, Gaussian blur, edge detection, morphological ops, and contour detection).
 - A research-paper-style PDF report (in docs/).
-- Sample images (in data/images/) and outputs (in data/output_images/).
+- Sample images (in data/images/) and outputs (in data/output_images/ and in data/single_images).
 
 ---
 
@@ -53,7 +53,7 @@ No deep learning models are used, making the solution efficient for devices with
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/YashPrajapati3000/Crater_and_Boulder_Detection_Image_Processing.git
-   cd Crater_Boulder_Detection
+   cd Crater_and_Boulder_Detection_Image_Processing
 
 2. **Install dependencies:**
 - Using pip:
